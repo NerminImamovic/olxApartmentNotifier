@@ -1,0 +1,56 @@
+name: Scrape
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */4 * * *'
+jobs:  
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with: 
+        python-version: '3.x'
+    - name: Cache pip
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+          ${{ runner.os }}-
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    - name: run module
+      env: 
+        MAIL_PASSWORD: ${{ secrets.MAIL_PASSWORD }}
+      run: python3 apartment_notify/scraper.py
+    - name: Commit changes
+      run: |
+        git config --global user.email "nimamovic9@gmail.com"
+        git config --global user.name "NerminImamovic"
+        git config --global user.password "${{ secrets.EMAIL_PASSWORD }}" 
+        git add .
+        git commit -m "Auto updating urls.txt" | exit 0
+    - name: push code to master
+      run: |
+        git fetch origin master
+        git pull origin master
+        git merge
+        git push origin HEAD:master
+    - name: Send mail
+      uses: dawidd6/action-send-mail@v2
+      with:
+        server_address: smtp.gmail.com
+        server_port: 465
+        username: ${{secrets.SENDER_MAIL_USERNAME}}
+        password: ${{secrets.SENDER_MAIL_PASSWORD}}
+        subject: Github Actions job result
+        # Read file contents as body:
+        body: file://body.txt
+        to: nimamovic9@gmail.com
+        from: imamovicjr@gmail.com
