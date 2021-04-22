@@ -54,7 +54,7 @@ def save_new_apartments(new_apartments: List[Apartment]):
 def save_deleted_apartments(deleted_apartments: List[Apartment]):
     if len(deleted_apartments):
         with open("deletedUrls.txt", "w") as file:
-            file.write("\nDeleted:\n")
+            file.write("Deleted:\n")
             file.write('\n'.join(f"{appartment.url}, {appartment.price}" for appartment in deleted_apartments))
             file.write("\n")
 
