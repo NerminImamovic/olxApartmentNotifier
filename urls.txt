@@ -12,7 +12,6 @@ https://www.olx.ba/artikal/38290080/dvosoban-stan-dobrinja/, 92.500 KM
 https://www.olx.ba/artikal/39988810/on-time-prodaje-dobrinja-trosoban-stan-89-m2/, 100.000 KM
 https://www.olx.ba/artikal/40219842/my-space-stan-dobrinja-renoviran-namjesten-40-52m2/, 81.000 KM
 https://www.olx.ba/artikal/37448289/my-space-stan-brijesce-franje-kluza-45-m2/, 77.000 KM
-https://www.olx.ba/artikal/41871520/stan-na-dobrinji-4/, 86.500 KM
 https://www.olx.ba/artikal/42642103/dvosoban-stan-novi-grad-alipasino-polje-a-faza/, 93.500 KM
 https://www.olx.ba/artikal/40955368/stan-dobrinja/, 97.000 KM
 https://www.olx.ba/artikal/17554465/prodaja-stan-68m2-kasindo-istocna-ilidza/, 43.000 KM
@@ -28,3 +27,4 @@ https://www.olx.ba/artikal/42161572/alipasino-polje-jednoiposoban-stan-47m2/, 95
 https://www.olx.ba/artikal/42835974/stan-novi-grad-alipasino-a-faza-56m2/, 96.000 KM
 https://www.olx.ba/artikal/42568261/sigenx-prodaje-jednoiposoban-stan-dobrinja-uknjizen/, 95.000 KM
 https://www.olx.ba/artikal/40982308/stan-dobrinja-c5/, 94.500 KM
+https://www.olx.ba/artikal/41871520/stan-na-dobrinji-4/, 82.000 KM
