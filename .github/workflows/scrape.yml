@@ -52,3 +52,4 @@ jobs:
         body: file://body.txt
         to: nimamovic9@gmail.com
         from: imamovicjr@gmail.com
+      continue-on-error: true
