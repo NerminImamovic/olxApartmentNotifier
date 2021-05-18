@@ -12,7 +12,6 @@ https://www.olx.ba/artikal/35073247/bauland-dvosoban-stan-adema-buce-novi-grad/,
 https://www.olx.ba/artikal/42642103/dvosoban-stan-novi-grad-alipasino-polje-a-faza/, 93.500 KM
 https://www.olx.ba/artikal/34217905/nn-nekretnine-dvosoban-stan-dobrinja/, 92.000 KM
 https://www.olx.ba/artikal/37448289/my-space-stan-brijesce-franje-kluza-45-m2/, 77.000 KM
-https://www.olx.ba/artikal/42695366/my-space-stan-dobrinja-oslobodilaca-sarajeva-47m2/, 95.000 KM
 https://www.olx.ba/artikal/29334714/dvosoban-stan-gradacacka-cengic-vila-suteren/, 85.000 KM
 https://www.olx.ba/artikal/42863234/tim-alipasino-polje-adaptiran-dvosoban-stan-40m2/, 99.000 KM
 https://www.olx.ba/artikal/33379934/nn-nekretnine-dvosoban-stan-dobrinja/, 85.000 KM
@@ -28,3 +27,4 @@ https://www.olx.ba/artikal/42568261/sigenx-prodaje-jednoiposoban-stan-dobrinja-u
 https://www.olx.ba/artikal/42918622/capital-stan-dobrinja-iv-fbih-56m2-2-sprat-gandijeva/, 88.000 KM
 https://www.olx.ba/artikal/39912496/stan-sarajevo-novi-grad-alipasino-nedzarici/, 93.500 KM
 https://www.olx.ba/artikal/35257995/stan-istanbul-beyoglu-centar-turska/, 100.000 KM
+https://www.olx.ba/artikal/42314882/trosoban-stan-novi-grad-dobrinja-c5-66-m2/, 94.500 KM
