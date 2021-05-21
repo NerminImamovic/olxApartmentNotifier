@@ -21,6 +21,7 @@ const msg = {
     from: 'nimamovic9@gmail.com',
     subject: 'Hello world',
     text: body,
+    html: body,
 };
 
 sgMail
