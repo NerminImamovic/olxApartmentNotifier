@@ -53,13 +53,7 @@ jobs:
         to: nimamovic9@gmail.com
         from: imamovicjr@gmail.com
       continue-on-error: true
-    - name: 'Sending Email with SendGrid'
-      uses: mmeisels/action-send-an-email-@v1
-      with:
-        emailToAddress: nimamovic9@gmail.com
-        emailFromAddress: nimamovic9@gmail.com
-        emailBody: file://body.txt
-        unSubscribeGroupID: 'unsusbcribe group ID from step 3'
-        emailTemplateID: 'Email Template ID from Step 4'
+    - name: SendGrid
+      uses: peter-evans/sendgrid-action@v1
       env:
         SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
