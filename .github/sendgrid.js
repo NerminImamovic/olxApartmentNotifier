@@ -8,6 +8,9 @@ let body;
 
 try {
     body = fs.readFileSync('./body.txt', 'utf8')
+
+    body = body.replace(',', ' ,');
+
     console.log(body)
 } catch (err) {
     console.error(err)
