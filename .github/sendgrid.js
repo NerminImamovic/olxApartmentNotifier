@@ -15,7 +15,7 @@ try {
     const msg = {
         to: 'nimamovic9@gmail.com',
         from: 'nimamovic9@gmail.com',
-        subject: 'OLX Update - Stanovi',
+        subject: 'OLX Update - Apartments',
         text: body,
         html: body,
     };
