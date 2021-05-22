@@ -7,7 +7,7 @@ sgMail.setApiKey(process.env.SENDGRID_API_KEY);
 try {
     let body = fs.readFileSync('./body.txt', 'utf8');
     body = body.replace(',', ' ,');
-    body = body.split(':', ':<br />');
+    body = body.split(':').join(':<br />');
     body = body.split('KM').join('KM<br />');
 
     console.log(body);
