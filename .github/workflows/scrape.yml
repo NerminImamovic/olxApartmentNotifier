@@ -40,20 +40,21 @@ jobs:
         git pull origin master
         git merge
         git push origin HEAD:master
-    - name: Send mail
-      uses: dawidd6/action-send-mail@v2
-      with:
-        server_address: smtp.gmail.com
-        server_port: 465
-        username: ${{secrets.SENDER_MAIL_USERNAME}}
-        password: ${{secrets.SENDER_MAIL_PASSWORD}}
-        subject: Github Actions job result
-        # Read file contents as body:
-        body: file://body.txt
-        to: nimamovic9@gmail.com
-        from: imamovicjr@gmail.com
-      continue-on-error: true
-    - name: SendGrid
-      uses: peter-evans/sendgrid-action@v1
-      env:
-        SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
+    # Skip sending emails
+    # - name: Send mail
+    #   uses: dawidd6/action-send-mail@v2
+    #   with:
+    #     server_address: smtp.gmail.com
+    #     server_port: 465
+    #     username: ${{secrets.SENDER_MAIL_USERNAME}}
+    #     password: ${{secrets.SENDER_MAIL_PASSWORD}}
+    #     subject: Github Actions job result
+    #     # Read file contents as body:
+    #     body: file://body.txt
+    #     to: nimamovic9@gmail.com
+    #     from: imamovicjr@gmail.com
+    #   continue-on-error: true
+    # - name: SendGrid
+    #   uses: peter-evans/sendgrid-action@v1
+    #   env:
+    #     SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
