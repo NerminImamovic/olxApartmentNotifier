@@ -12,7 +12,6 @@ https://www.olx.ba/artikal/43996661/dvosoban-stan-u-suterenu-cengic-vila/, 85.00
 https://www.olx.ba/artikal/29334714/dvosoban-stan-gradacacka-cengic-vila-suteren/, 85.000 KM
 https://www.olx.ba/artikal/43444590/trosoban-stan-boljakov-potok-novi-grad-sarajevo/, 95.000 KM
 https://www.olx.ba/artikal/39988810/on-time-prodaje-dobrinja-trosoban-stan-89-m2/, 100.000 KM
-https://www.olx.ba/artikal/43906340/on-time-anex-dvoiposoban-stan-63-m2/, 95.000 KM
 https://www.olx.ba/artikal/40219842/my-space-stan-dobrinja-renoviran-namjesten-40-52m2/, 81.000 KM
 https://www.olx.ba/artikal/43611293/prostor-prodaje-dvosoban-stan-sa-balkonom-dobrinja-iv/, 89.000 KM
 https://www.olx.ba/artikal/38646086/sigenx-prodajetrosoban-stan-dobrinja-63m2/, 94.000 KM
@@ -28,3 +27,4 @@ https://www.olx.ba/artikal/44457731/capital-stan-a-polje-trg-solidarnosti-48m2-6
 https://www.olx.ba/artikal/44459245/stan-sarajevo-dobrinja-1-novi-grad-dvosoban/, 95.000 KM
 https://www.olx.ba/artikal/44087793/sigenx-prodajejednoiposoban-stan-alipasino-polje/, 95.000 KM
 https://www.olx.ba/artikal/44484499/capital-dobrinja-55m2-1-sprat-trg-zlatnih-ljiljana/, 99.500 KM
+https://www.olx.ba/artikal/44291551/stan-dobrinja-c5-46-65m2/, 100.000 KM
