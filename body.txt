@@ -1,6 +1,4 @@
 New: 
-https://www.olx.ba/artikal/38845662/nekretnine-karmela-stan-aerodromsko-dobrinja/, 100.000 KM
-https://www.olx.ba/artikal/44540243/stan-sarajevo-novi-grad/, 38.000 KM
+https://www.olx.ba/artikal/44212213/stan-sarajevo/, 94.000 KM
 Deleted:
-https://www.olx.ba/artikal/44400507/dvosoban-stan-novi-grad-dobrinja-1-55-m2/, 99.900 KM
-https://www.olx.ba/artikal/44219048/stan-dobrinja/, 97.000 KM
+https://www.olx.ba/artikal/44459245/stan-sarajevo-dobrinja-1-novi-grad-dvosoban/, 95.000 KM
