@@ -10,7 +10,6 @@ https://www.olx.ba/artikal/39988810/on-time-prodaje-dobrinja-trosoban-stan-89-m2
 https://www.olx.ba/artikal/40219842/my-space-stan-dobrinja-renoviran-namjesten-40-52m2/, 81.000 KM
 https://www.olx.ba/artikal/43611293/prostor-prodaje-dvosoban-stan-sa-balkonom-dobrinja-iv/, 89.000 KM
 https://www.olx.ba/artikal/42695366/my-space-stan-dobrinja-oslobodilaca-sarajeva-47m2/, 89.500 KM
-https://www.olx.ba/artikal/44517271/dvosoban-stan-2-balkona-1-sprat-buca-potok-sarajevo/, 95.000 KM
 https://www.olx.ba/artikal/38845662/nekretnine-karmela-stan-aerodromsko-dobrinja/, 100.000 KM
 https://www.olx.ba/artikal/44401164/jednosoban-stan-novi-grad-aerodromsko-naselje/, 85.000 KM
 https://www.olx.ba/artikal/44632965/alipasino-polje-dvosoban-stan/, 89.000 KM
@@ -18,7 +17,6 @@ https://www.olx.ba/artikal/44645484/jednosoban-stan-novi-grad-aneks-40-m2/, 75.0
 https://www.olx.ba/artikal/44651536/my-space-stan-alipasino-polje-geteova-54-m2/, 99.000 KM
 https://www.olx.ba/artikal/44678818/prostor-prodaje-dvosoban-stan-sa-2-lodje-dobrinja/, 99.000 KM
 https://www.olx.ba/artikal/44684734/total-pro-stan-41-m-dobrinja-sarajevo/, 89.000 KM
-https://www.olx.ba/artikal/44686119/total-pro-stan-54-m-alipasino-polje-sarajevo/, 97.000 KM
 https://www.olx.ba/artikal/44358313/dvosoban-stan-57-m2-alipasino-polje-b-faza/, 98.000 KM
 https://www.olx.ba/artikal/44703981/stan-sarajevo-hrasnica/, 78.500 KM
 https://www.olx.ba/artikal/44212213/stan-sarajevo/, 94.000 KM
@@ -28,3 +26,5 @@ https://www.olx.ba/artikal/44724470/bauland-jednosoban-stan-40m2-vojnicko-polje/
 https://www.olx.ba/artikal/44727029/prostor-prodaje-dvosoban-stan-61m2-dobrinja/, 99.000 KM
 https://www.olx.ba/artikal/44087793/sigenx-prodajejednoiposoban-stan-alipasino-polje/, 95.000 KM
 https://www.olx.ba/artikal/44737308/stan-47-m2/, 90.000 KM
+https://www.olx.ba/artikal/44517271/dvosoban-stan-2-balkona-1-sprat-buca-potok-sarajevo/, 90.000 KM
+https://www.olx.ba/artikal/39524927/cetverosoban-stan-sa-garazom-u-prizemlju-kuce-aneks/, 65.000 KM
