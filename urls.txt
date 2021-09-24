@@ -16,7 +16,6 @@ https://www.olx.ba/artikal/44711272/ad-company-prodaje-stan-vojnicko-polje-924/,
 https://www.olx.ba/artikal/44719555/prodaje-se-jednoiposoban-stan-dobrinja-5/, 95.000 KM
 https://www.olx.ba/artikal/44724470/bauland-jednosoban-stan-40m2-vojnicko-polje/, 85.000 KM
 https://www.olx.ba/artikal/44727029/prostor-prodaje-dvosoban-stan-61m2-dobrinja/, 99.000 KM
-https://www.olx.ba/artikal/44087793/sigenx-prodajejednoiposoban-stan-alipasino-polje/, 95.000 KM
 https://www.olx.ba/artikal/44737308/stan-47-m2/, 90.000 KM
 https://www.olx.ba/artikal/44517271/dvosoban-stan-2-balkona-1-sprat-buca-potok-sarajevo/, 90.000 KM
 https://www.olx.ba/artikal/39524927/cetverosoban-stan-sa-garazom-u-prizemlju-kuce-aneks/, 65.000 KM
@@ -28,3 +27,4 @@ https://www.olx.ba/artikal/44762241/jednosoban-stan-vojnicko-polje/, 85.000 KM
 https://www.olx.ba/artikal/43996661/dvosoban-stan-u-suterenu-cengic-vila/, 85.000 KM
 https://www.olx.ba/artikal/43996189/stanovi-kuce/, 90.000 KM
 https://www.olx.ba/artikal/44678818/prostor-prodaje-dvosoban-stan-sa-2-lodje-dobrinja/, 99.000 KM
+https://www.olx.ba/artikal/42568261/sigenx-prodaje-jednoiposoban-stan-dobrinja-uknjizen/, 95.000 KM
