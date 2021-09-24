@@ -1,4 +1,3 @@
-https://www.olx.ba/artikal/42568261/sigenx-prodaje-jednoiposoban-stan-dobrinja-uknjizen/, 95.000 KM
 https://www.olx.ba/artikal/39952054/tim-cengic-vila-2-adaptiran-dvosoban-stan-47m2/, 83.000 KM
 https://www.olx.ba/artikal/42980358/jednosoban-stan-aerodromsko-naselje/, 85.000 KM
 https://www.olx.ba/artikal/43857342/stan-sarajevo-novi-grad/, 80.000 KM
@@ -10,7 +9,6 @@ https://www.olx.ba/artikal/38845662/nekretnine-karmela-stan-aerodromsko-dobrinja
 https://www.olx.ba/artikal/44401164/jednosoban-stan-novi-grad-aerodromsko-naselje/, 85.000 KM
 https://www.olx.ba/artikal/44632965/alipasino-polje-dvosoban-stan/, 89.000 KM
 https://www.olx.ba/artikal/44645484/jednosoban-stan-novi-grad-aneks-40-m2/, 75.000 KM
-https://www.olx.ba/artikal/44678818/prostor-prodaje-dvosoban-stan-sa-2-lodje-dobrinja/, 99.000 KM
 https://www.olx.ba/artikal/44684734/total-pro-stan-41-m-dobrinja-sarajevo/, 89.000 KM
 https://www.olx.ba/artikal/44358313/dvosoban-stan-57-m2-alipasino-polje-b-faza/, 98.000 KM
 https://www.olx.ba/artikal/44703981/stan-sarajevo-hrasnica/, 78.500 KM
@@ -28,3 +26,5 @@ https://www.olx.ba/artikal/42896973/stan-alipasino-polje-48m2-14-kat-balkon-cent
 https://www.olx.ba/artikal/40219842/my-space-stan-dobrinja-renoviran-namjesten-40-52m2/, 81.000 KM
 https://www.olx.ba/artikal/44651536/my-space-stan-alipasino-polje-geteova-54-m2/, 99.000 KM
 https://www.olx.ba/artikal/44762241/jednosoban-stan-vojnicko-polje/, 85.000 KM
+https://www.olx.ba/artikal/43996661/dvosoban-stan-u-suterenu-cengic-vila/, 85.000 KM
+https://www.olx.ba/artikal/43996189/stanovi-kuce/, 90.000 KM
