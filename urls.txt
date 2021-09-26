@@ -17,7 +17,6 @@ https://www.olx.ba/artikal/44727029/prostor-prodaje-dvosoban-stan-61m2-dobrinja/
 https://www.olx.ba/artikal/44737308/stan-47-m2/, 90.000 KM
 https://www.olx.ba/artikal/44517271/dvosoban-stan-2-balkona-1-sprat-buca-potok-sarajevo/, 90.000 KM
 https://www.olx.ba/artikal/39524927/cetverosoban-stan-sa-garazom-u-prizemlju-kuce-aneks/, 65.000 KM
-https://www.olx.ba/artikal/41553616/stan-65m2-dobrinja-suteren-pretvoren-u-poslovni/, 50.000 KM
 https://www.olx.ba/artikal/42896973/stan-alipasino-polje-48m2-14-kat-balkon-centralno/, 93.000 KM
 https://www.olx.ba/artikal/40219842/my-space-stan-dobrinja-renoviran-namjesten-40-52m2/, 81.000 KM
 https://www.olx.ba/artikal/44651536/my-space-stan-alipasino-polje-geteova-54-m2/, 99.000 KM
@@ -28,3 +27,4 @@ https://www.olx.ba/artikal/44678818/prostor-prodaje-dvosoban-stan-sa-2-lodje-dob
 https://www.olx.ba/artikal/42568261/sigenx-prodaje-jednoiposoban-stan-dobrinja-uknjizen/, 95.000 KM
 https://www.olx.ba/artikal/44632965/alipasino-polje-dvosoban-stan/, 88.000 KM
 https://www.olx.ba/artikal/44785922/stan-sarajevo-novi-grad/, 400 KM
+https://www.olx.ba/artikal/44087793/sigenx-prodajejednoiposoban-stan-alipasino-polje/, 95.000 KM
