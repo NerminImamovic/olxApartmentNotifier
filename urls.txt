@@ -1,6 +1,5 @@
 https://www.olx.ba/artikal/43857342/stan-sarajevo-novi-grad/, 80.000 KM
 https://www.olx.ba/artikal/43611293/prostor-prodaje-dvosoban-stan-sa-balkonom-dobrinja-iv/, 89.000 KM
-https://www.olx.ba/artikal/38845662/nekretnine-karmela-stan-aerodromsko-dobrinja/, 100.000 KM
 https://www.olx.ba/artikal/44401164/jednosoban-stan-novi-grad-aerodromsko-naselje/, 85.000 KM
 https://www.olx.ba/artikal/44711272/ad-company-prodaje-stan-vojnicko-polje-924/, 85.000 KM
 https://www.olx.ba/artikal/44724470/bauland-jednosoban-stan-40m2-vojnicko-polje/, 85.000 KM
@@ -27,4 +26,5 @@ https://www.olx.ba/artikal/45022439/jednosoban-stan-dobrinja3-41-m2/, 88.000 KM
 https://www.olx.ba/artikal/44582428/stan-dobrinja/, 100.000 KM
 https://www.olx.ba/artikal/45070860/stan-sarajevo-novi-grad/, 94.900 KM
 https://www.olx.ba/artikal/45091074/novo-adaptiran-jednosoban-stan-novi-grad-aneks-40m2/, 98.000 KM
-https://www.olx.ba/artikal/45088676/novogradnja-otoka-jednosoban-namjesten-stan-40m2/, 350 KM
+https://www.olx.ba/artikal/44214261/dobrinja-2-jednoiposoban-stan/, 99.000 KM
+https://www.olx.ba/artikal/44719555/prodaje-se-jednoiposoban-stan-dobrinja-5/, 95.000 KM
